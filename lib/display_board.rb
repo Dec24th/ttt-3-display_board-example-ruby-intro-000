@@ -2,9 +2,9 @@
 def display_board
 row = "   " + "|" + "   " + "|" + "   "
 separator = "-----------"
-prints row
-prints separator
-prints row
-prints separator
-prints row
+puts row
+puts separator
+puts row
+puts separator
+puts row
 end
